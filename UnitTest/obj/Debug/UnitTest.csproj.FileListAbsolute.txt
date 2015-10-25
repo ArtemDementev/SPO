@@ -1,0 +1,18 @@
+C:\Users\123\Documents\Visual Studio 2012\Projects\SPO\Model2\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\123\Documents\Visual Studio 2012\Projects\SPO\Model2\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\123\Documents\Visual Studio 2012\Projects\SPO\Model2\UnitTest\bin\Debug\Model2.dll
+C:\Users\123\Documents\Visual Studio 2012\Projects\SPO\Model2\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\123\Documents\Visual Studio 2012\Projects\SPO\Model2\UnitTest\bin\Debug\Model2.pdb
+C:\Users\123\Documents\Visual Studio 2012\Projects\SPO\Model2\UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\123\Documents\Visual Studio 2012\Projects\SPO\Model2\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2012\Projects\SPO\Model2\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\123\Documents\Visual Studio 2012\Projects\SPO\Model2\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Денис\Documents\Проекты\Архив\Projects\SPO\Model2\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Денис\Documents\Проекты\Архив\Projects\SPO\Model2\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Денис\Documents\Проекты\Архив\Projects\SPO\Model2\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Денис\Documents\Проекты\Архив\Projects\SPO\Model2\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Денис\Documents\Проекты\Архив\Projects\SPO\Model2\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Денис\Documents\Проекты\Архив\Projects\SPO\Model2\UnitTest\bin\Debug\Model2.dll
+C:\Users\Денис\Documents\Проекты\Архив\Projects\SPO\Model2\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Денис\Documents\Проекты\Архив\Projects\SPO\Model2\UnitTest\bin\Debug\Model2.pdb
+C:\Users\Денис\Documents\Проекты\Архив\Projects\SPO\Model2\UnitTest\bin\Debug\nunit.framework.xml
